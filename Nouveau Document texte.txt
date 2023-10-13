@@ -1,0 +1,15 @@
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/TCDG22/miniprojet.git
+git push -u origin main
+
+
+git remote add origin https://github.com/TCDG22/miniprojet.git
+git branch -M main
+git push -u origin main
+
+-u: user
+-m: message
+-M: modify
